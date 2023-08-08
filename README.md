@@ -1,6 +1,6 @@
 # **Analyzing-Student-Attributes-for-Career-Success**
 
-**Project Objective:**
+## **Project Objective:**
 The objective of the project is to conduct a comprehensive analysis of student internships to gain insights into the relationship between their academic performance, event participation, career aspirations, and factors influencing their success. The project aims to utilize data analysis techniques to extract meaningful patterns and correlations, enabling better decision-making for both students and recruiters in the job market.
 <br><br>
 **Business Case:**
@@ -18,32 +18,33 @@ The project goal is to achieve a comprehensive analysis of the dataset within a 
 -Business Case Document: A documented justification for the project, outlining the benefits, costs, and risks associated with the analysis, providing stakeholders with a rationale for the preferred solution.
 
 **Project Scope:**
-Data Collection and Preprocessing: Gather and preprocess the dataset containing various attributes for each student, ensuring data integrity and quality.
 
-Descriptive Analysis: Conduct descriptive statistical analysis to understand the distribution and characteristics of student attributes like GPA, event participation, career aspirations, Python programming experience, and family income.
+-Data Collection and Preprocessing: Gather and preprocess the dataset containing various attributes for each student, ensuring data integrity and quality.
 
-GPA Variation Among Colleges: Analyze the variation in GPA among different colleges and present the top 5 colleges with the highest average GPAs.
+-Descriptive Analysis: Conduct descriptive statistical analysis to understand the distribution and characteristics of student attributes like GPA, event participation, career aspirations, Python programming experience, and family income.
 
-Student Experience with Python: Examine the distribution of students' experience with Python programming and determine the percentage of students with Python skills.
+-GPA Variation Among Colleges: Analyze the variation in GPA among different colleges and present the top 5 colleges with the highest average GPAs.
 
-Family Income Analysis: Calculate the average family income of the students and identify its relationship with academic performance and career aspirations.
+-Student Experience with Python: Examine the distribution of students' experience with Python programming and determine the percentage of students with Python skills.
 
-Event Participation and Success Correlation: Investigate the connection between students' event participation and their success in securing internships/jobs.
+-Family Income Analysis: Calculate the average family income of the students and identify its relationship with academic performance and career aspirations.
 
-Outliers in Courses Completed: Identify outliers in the quantity attribute (number of courses completed) to understand any potential patterns or anomalies.
+-Event Participation and Success Correlation: Investigate the connection between students' event participation and their success in securing internships/jobs.
+
+-Outliers in Courses Completed: Identify outliers in the quantity attribute (number of courses completed) to understand any potential patterns or anomalies.
 
 **Out of Scope (Planned for Future Development Stages):**
 
-Predictive Analysis: Building predictive models to forecast student success in internships/jobs based on various attributes. This may include machine learning algorithms for classification or regression tasks.
+-Predictive Analysis: Building predictive models to forecast student success in internships/jobs based on various attributes. This may include machine learning algorithms for classification or regression tasks.
 
-Deep Dive into Career Aspirations: Conducting in-depth analysis of students' career aspirations and their alignment with different industries or job roles.
+-Deep Dive into Career Aspirations: Conducting in-depth analysis of students' career aspirations and their alignment with different industries or job roles.
 
-Longitudinal Analysis: Analyzing data over multiple years to track student performance and success trends over time.
+-Longitudinal Analysis: Analyzing data over multiple years to track student performance and success trends over time.
 
-Text Analysis of Resumes: Employing natural language processing techniques to analyze the content of resumes and extract valuable information.
+-Text Analysis of Resumes: Employing natural language processing techniques to analyze the content of resumes and extract valuable information.
 
-External Data Integration: Incorporating external data sources, such as industry trends or job market reports, to provide additional context for the analysis.
+-External Data Integration: Incorporating external data sources, such as industry trends or job market reports, to provide additional context for the analysis.
 
-User Interface Development: Creating a user-friendly interface to visualize and interact with the analysis results for students and recruiters.
+-User Interface Development: Creating a user-friendly interface to visualize and interact with the analysis results for students and recruiters.
 
-Recommendation Engine: Developing a recommendation engine to suggest tailored improvement strategies for students based on their individual attributes and goals.
+-Recommendation Engine: Developing a recommendation engine to suggest tailored improvement strategies for students based on their individual attributes and goals.
