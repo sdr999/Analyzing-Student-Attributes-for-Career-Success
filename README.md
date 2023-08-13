@@ -1,5 +1,11 @@
 # **Analyzing-Student-Attributes-for-Career-Success**
 
+## **Visualized Dashboard**
+![image](https://github.com/sdr999/Analyzing-Student-Attributes-for-Career-Success/assets/100745287/a196432f-e29d-4bca-aa27-4453365dbb54)
+
+![image](https://github.com/sdr999/Analyzing-Student-Attributes-for-Career-Success/assets/100745287/78e3d481-cb95-4260-8a10-237b59bbf6bc)
+
+
 ## **Project Objective:**
 The objective of the project is to conduct a comprehensive analysis of student internships to gain insights into the relationship between their academic performance, event participation, career aspirations, and factors influencing their success. The project aims to utilize data analysis techniques to extract meaningful patterns and correlations, enabling better decision-making for both students and recruiters in the job market.
 <br><br>
@@ -48,9 +54,3 @@ The project goal is to achieve a comprehensive analysis of the dataset within a 
 -User Interface Development: Creating a user-friendly interface to visualize and interact with the analysis results for students and recruiters.
 
 -Recommendation Engine: Developing a recommendation engine to suggest tailored improvement strategies for students based on their individual attributes and goals.
-
-## **Visualized Dashboard**
-![image](https://github.com/sdr999/Analyzing-Student-Attributes-for-Career-Success/assets/100745287/a196432f-e29d-4bca-aa27-4453365dbb54)
-
-![image](https://github.com/sdr999/Analyzing-Student-Attributes-for-Career-Success/assets/100745287/78e3d481-cb95-4260-8a10-237b59bbf6bc)
-
