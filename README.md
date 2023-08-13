@@ -48,3 +48,9 @@ The project goal is to achieve a comprehensive analysis of the dataset within a 
 -User Interface Development: Creating a user-friendly interface to visualize and interact with the analysis results for students and recruiters.
 
 -Recommendation Engine: Developing a recommendation engine to suggest tailored improvement strategies for students based on their individual attributes and goals.
+
+## **Visualized Dashboard**
+![image](https://github.com/sdr999/Analyzing-Student-Attributes-for-Career-Success/assets/100745287/99288698-353c-41d7-850e-9f906f73866a)
+
+![image](https://github.com/sdr999/Analyzing-Student-Attributes-for-Career-Success/assets/100745287/78e3d481-cb95-4260-8a10-237b59bbf6bc)
+
